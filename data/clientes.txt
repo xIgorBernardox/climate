@@ -1,0 +1,14 @@
+Nome: Maria Oliveira
+CPF: 987.654.321-00
+Endereço: Rua XYZ, 456
+Número Celular: (11) 87654-3210
+Serviço Requisitado: Manuten��o de ventilador
+Requisição do serviço: 22:02:54.437522800 2024-10-10
+-----------------------------
+Nome: victor
+CPF: 7474448
+Endereço: auisdhjasiojdiasjd
+Número Celular: 6546546464
+Serviço Requisitado: consertar ventilador
+Requisição do serviço: 22:08:24.424886100 2024-10-10
+-----------------------------
