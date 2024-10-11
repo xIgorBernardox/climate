@@ -1,5 +1,0 @@
-Nome: Carlos Santos
-CPF: 123.456.789-11
-Especialidade: Manutencao de Eletrodomesticos
-Salário: 2500.0
------------------------------
