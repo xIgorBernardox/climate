@@ -1,0 +1,7 @@
+Nome: Igor
+CPF: 465465445
+Endereço: aikaelihfa
+Número Celular: 564984321
+Serviço Requisitado: Consertar Ventilador
+Requisição do serviço: 01:01:37.147401400 2024-10-11
+-----------------------------

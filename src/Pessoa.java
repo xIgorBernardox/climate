@@ -15,6 +15,5 @@ public abstract class Pessoa {
         return cpf;
     }
 
-    // Declaração do método abstrato exibirInfo()
-    public abstract void exibirInfo();  // Método abstrato que deve ser implementado pelas subclasses
+    public abstract void exibirInfo(); 
 }
