@@ -1,5 +1,0 @@
-Nome: ana
-CPF: 56464654
-Especialidade: t�cnica 
-Salário: 2540.0
------------------------------
